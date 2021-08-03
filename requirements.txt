@@ -1,0 +1,3 @@
+pandas-datareader
+wordcloud
+nltk
